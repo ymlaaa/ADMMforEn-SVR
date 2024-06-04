@@ -1,5 +1,5 @@
 # ADMMforEn-SVR
-Paper: Menglei Yang, Hao Liang, Xiaofei Wu and Zhimin Zhang. Alternating Direction Method of Multipliers for Elastic-net Support Vector Regression
+Paper: Menglei Yang, Hao Liang, Xiaofei Wu and Zhimin Zhang. A Flexible and Efficient Algorithm for High Dimensional Support Vector Regression.
 
 In this paper, we propose the Elastic-net Support Vector Regression (En-SVR) model to address high-dimensional statistical learning problems. A novel and efficient Alternating Direction Method of Multipliers (ADMM) is employed to solve the En-SVR model.
 
